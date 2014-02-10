@@ -1,0 +1,16 @@
+body {
+  padding-top: 60px;
+}
+
+h1, h2, h3, h4, h5 {
+  font-family: Lato, Helvetica, Arial, sans-serif;
+}
+
+h1 {
+  font-weight: 300;
+  text-align: center;
+}
+
+ul {
+  list-style: none;
+}
