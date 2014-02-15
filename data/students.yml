@@ -1,0 +1,167 @@
+- name: student template
+- name: Amine Tourki
+  image: amine.png
+  social: 
+    - twitter: aminethedream
+    - github: aminethedream
+- name: Anisha Ramnani
+  image: anisha.png
+  social: 
+    - github: anisharamnani
+    - blog: http://blurredcommandlines.tumblr.com/
+    - portfolio: http://anisha-portfolio.herokuapp.com/
+- name: Ariel Isaacs
+  image: ariel.png
+  social: 
+    - twitter: arielisaacs
+    - github: ajosepha
+    - blog: http://ajosepha.tumblr.com/
+    - portfolio: http://arielisaacs.herokuapp.com/
+- name: Armando Amador
+  image: armando.png
+  social: 
+    - twitter: mando_amador 
+    - github: ArmandoAmador
+- name: David Gabeau
+  image: david.png
+  social: 
+- name: Derek Silverman
+  image: derek.png
+  social: 
+    - twitter: dereksilverman
+    - github: dereksilverman
+    - blog: http://sleepydinosuar.tumblr.com/
+    - portfolio: http://dereksilverman.herokuapp.com/
+- name: Gustavo Guimaraes
+  image: gustavo.png
+  social: 
+    - github: gustavoguimaraes
+    - blog: http://gustavocguimaraes.wordpress.com/
+    - portfolio: https://gustavo-guimaraes-webpage.herokuapp.com/
+- name: Jahmil Eady
+  image: jahmil.png
+  social: 
+    - twitter: LololiZayn
+    - github:  JahmilE
+    - blog: http://codejanecode.tumblr.com/
+- name: Jeremy Lewis
+  image: jeremy.png
+  social: 
+    - twitter: LewisJPaul
+    - github: Lewisjp
+    - blog: http://lewisjp.blog.com/
+    - portfolio: http://jeremylewis.herokuapp.com/
+- name: Kate Donahue
+  image: kate.png
+  social: 
+    - github: katepdonahue
+    - blog: http://katepdonahue.tumblr.com/
+    - portfolio: http://katepdonahue.herokuapp.com/
+- name: Katie Hoffman
+  image: katie.png
+  social: 
+    - twitter: kt_hffmn
+    - github: kthffmn
+    - portfolio: http://kthffmn.herokuapp.com/
+- name: 'Keith Williams, Jr.'
+  image: keith.png
+  social: 
+    - twitter: Kphillycat
+    - github: kphillycat
+    - blog: http://codewardbound.tumblr.com/
+    - portfolio: http://keithwilliamsjr.herokuapp.com/
+- name: Keturah Walters
+  image: keturah.png
+  social: 
+    - twitter: keturahwalters
+    - github: ketwalters
+- name: Nikki Thean
+  image: nikki.png
+  social: 
+    - github: nixsticks
+    - blog: http://nikkicodes.tumblr.com/
+    - portfolio: http://nikki-thean.herokuapp.com/
+- name: Nisha Batra
+  image: nisha.png
+  social: 
+    - twitter: nishacodes
+    - github: nishacodes
+    - blog: http://nishacodes.tumblr.com
+    - portfolio: http://nishabatra.herokuapp.com/
+- name: Oliver Switzer
+  image: oliver.png
+  social: 
+    - twitter: oliverswitzer
+    - blog: http://allyourcodesarebelongtous.tumblr.com/
+    - portfolio: http://oliverjswitzer.herokuapp.com/
+- name: Sara Gorecki
+  image: sara.png
+  social: 
+    - twitter: opheliasdaisies
+    - github: opheliasdaisies
+    - blog: http://www.mykindofgeek.com
+    - portfolio: http://saragorecki.com
+- name: Sarah Ransohoff
+  image: sarah.png
+  social: 
+    - twitter: sranso
+    - github: sranso
+    - blog: http://www.sarahunderstandsverylittle.tumblr.com
+    - portfolio: http://sarahransohoff.herokuapp.com/
+- name: Sean Reed
+  image: sean.png
+  social: 
+    - twitter: kittykaraoke
+    - github: seanreed1111
+    - blog: http://bit.ly/flatironblog
+- name: Tessa Fallon
+  image: tessa.png
+  social: 
+    - github: tessafallon
+    - portfolio: http://contessacodes.herokuapp.com/
+- name: Uzo Ukeagu
+  image: uzo.png
+  social:
+    - github: MsUzoAgu
+    - twitter: MsUzoAgu
+    - blog: http://uzoagu.com
+- name: Pooja Pasawala
+  image: pooja.png
+  social: 
+    - twitter: poojawins
+    - github: poojawins
+    - portfolio: http://poojaportfolio.herokuapp.com 
+- name: Jonathan Brown
+  image: johnathan.png
+  social: 
+    - twitter: JONBRWN_
+    - github: jonbrwn
+- name: Lavoisier Cornerstone
+  image: vois.png
+  social: 
+    - github: cornerstonian
+    - blog: http://breuklenboy.tumblr.com
+- name: Sterling Walker
+  social: 
+    - github: mrsnickers
+    - blog: http://github.com/MrSnickers/Blog
+- name: Hannah Nordgren
+  image: hannah.png
+  social: 
+    - twitter: nordgrenator
+    - github: ninjaofawesome
+    - blog: http://anunorderedlistapart.tumblr.com/
+    - portfolio: http://hannah-portfolio.herokuapp.com/
+- name: Chris Haack
+  image: chris.png
+  social: 
+    - github: chyrus
+    - twitter: superxtanza
+    - blog: http://chryus.wordpress.com/
+    - portfolio: http://porta-folio.herokuapp.com/
+- name: Felicia O'Garro
+  image: felicia.png
+  social: 
+    - twitter: feliciaogarro
+    - github: fdogarro
+    - blog: http://fullimmersion.me/

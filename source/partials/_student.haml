@@ -1,0 +1,20 @@
+%li.student
+  .card-container
+    .card
+      .face.front{:style=>"background: url('./img/#{student.image}')"}
+        %h3 #{student.name}
+      .face.back
+        %ul.social
+          %li
+            %a{:href=>"/student/#{student.name.gsub(" ", "_")}.html"} LEARN MORE
+          - if student.social
+            - student.social.each do |service|
+              %li
+                - if service.keys[0] ==  "twitter"
+                  = partial "partials/twitter", :locals=>{:service=>service}
+                - elsif service.keys[0] ==  "github" 
+                  = partial "partials/github", :locals=>{:service=>service}
+                - elsif service.keys[0] ==  "blog" 
+                  = partial "partials/blog", :locals=>{:service=>service} 
+                - elsif service.keys[0] == "portfolio"
+                  %a{:href=>"#{service[:portfolio]}", :_target=>"blank"} Portfolio

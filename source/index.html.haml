@@ -1,0 +1,14 @@
+---
+title: Digital Wesleyan // Web Dev Fellowship
+season: Winter 2014
+---
+
+.students
+  %ul.clearfix
+    %li.jumbo
+      %h1
+        = current_page.data.title.upcase
+      %h1.subtitle
+        = current_page.data.season.upcase
+    - data.students.each do |student|
+      = partial "partials/student", :locals=>{:student=>student}
